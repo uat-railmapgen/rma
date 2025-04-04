@@ -1,1 +1,0 @@
-System.register(["./chakra-legacy-CKUlCO7w.js"],(function(t,r){"use strict";var e,n,u;return{setters:[t=>{e=t.u,n=t.j,u=t.c}],execute:function(){t("R",(function(t){var r=t.children,c=t.noWrap,s=e("RmgOutput",{noWrap:c});return n.jsx(u.output,{sx:s,children:r})}))}}}));
